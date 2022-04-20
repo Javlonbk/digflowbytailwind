@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card{
+    @apply border-[#595959]  2xlx:px-5 2xlx:py-10 box-border mdx:px-4 mdx:py-9 text-center xlx:w-1/5;
+}
